@@ -1,2 +1,2 @@
 # learnings
-All useful content on the learning journey
+**All useful content on the learning journey**
